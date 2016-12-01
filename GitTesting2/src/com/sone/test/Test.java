@@ -7,6 +7,7 @@ public class Test {
 
 		System.out.println("hello world how are you.........");
 		System.out.println("hello world how are you Reverse Branch changes.........");
+			System.out.println("hello world how are you Rebase Branch changes.........");
 	}
 
 }
