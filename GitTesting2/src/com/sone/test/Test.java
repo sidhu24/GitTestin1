@@ -6,8 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("hello world how are you.........");
-		System.out.println("hello world how are you Reverse Branch changes.........");
-			System.out.println("hello world how are you Rebase Branch changes.........");
+		System.out.println("hello world how are you.........");
+		System.out.println("hello world how are you.........");
 	}
 
 }
